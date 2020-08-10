@@ -1,5 +1,5 @@
 # 100-Days-of-Code
- O objetivo final do desafio dos #100DaysofCode é tornar-se um desenvolvedor melhor e criar a codificação como um hábito.
+ O objetivo final do desafio #100DaysofCode é tornar um desenvolvedor melhor e criar a codificação como um hábito.
 
 <!-- Left badge -->
 
